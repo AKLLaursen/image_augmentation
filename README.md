@@ -111,7 +111,7 @@ augmentor = Augmentor(rotation_range = 10,
 Image.fromarray(augmentor.augment(addr.headers_hr)[0])
 ```
 
-![Original image](examples/color_shift.png)
+![Original image](examples/everything.png)
 
 ## Contributors:
 
